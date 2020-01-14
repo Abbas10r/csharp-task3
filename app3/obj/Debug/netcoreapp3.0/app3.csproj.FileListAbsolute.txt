@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\app3\app3\bin\Debug\netcoreapp3.0\app3.exe
+C:\Users\User\source\repos\app3\app3\bin\Debug\netcoreapp3.0\app3.deps.json
+C:\Users\User\source\repos\app3\app3\bin\Debug\netcoreapp3.0\app3.runtimeconfig.json
+C:\Users\User\source\repos\app3\app3\bin\Debug\netcoreapp3.0\app3.runtimeconfig.dev.json
+C:\Users\User\source\repos\app3\app3\bin\Debug\netcoreapp3.0\app3.dll
+C:\Users\User\source\repos\app3\app3\bin\Debug\netcoreapp3.0\app3.pdb
+C:\Users\User\source\repos\app3\app3\obj\Debug\netcoreapp3.0\app3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\app3\app3\obj\Debug\netcoreapp3.0\app3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\app3\app3\obj\Debug\netcoreapp3.0\app3.AssemblyInfo.cs
+C:\Users\User\source\repos\app3\app3\obj\Debug\netcoreapp3.0\app3.dll
+C:\Users\User\source\repos\app3\app3\obj\Debug\netcoreapp3.0\app3.pdb
