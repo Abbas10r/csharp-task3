@@ -9,10 +9,14 @@ namespace app3
         static void Main(string[] args)
         {
             int n = Convert.ToInt32(Console.ReadLine());
-            int[] arr=new int[n];
+            int[] arr=new int[3];
             for(int i = 0; i < n; i++)
             {
-                arr[i] = Convert.ToInt32(Console.ReadLine());
+                int t = Convert.ToInt32(Console.ReadLine());
+                if (1 <= t && t <= 60)
+                    arr[i] = t;
+                else
+                    Console.WriteLine("Out of range");
             }
             for(int i = 0; i < n; i++)
             {
