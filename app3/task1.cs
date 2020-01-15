@@ -8,13 +8,18 @@ namespace app3
         static void Main(string[] args)
         {
             int x = Convert.ToInt32(Console.ReadLine());
-            for(int i = 0; i < x; i++)
+            if (1 <= x && x <= 1000)
             {
-                if (i % 2 != 0)
+                for (int i = 0; i < x; i++)
                 {
-                    Console.WriteLine(i);
+                    if (i % 2 != 0)
+                    {
+                        Console.WriteLine(i);
+                    }
                 }
             }
+            else
+                Console.WriteLine("Not in range");
         }
     }
 }
