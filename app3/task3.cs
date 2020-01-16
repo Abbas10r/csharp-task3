@@ -8,11 +8,11 @@ namespace app3
     {
         static void Main(string[] args)
         {
-            int n = ToInt32(ReadLine());
-            int[] arr=new int[1000];
+            int n = int.Parse(ReadLine());
+            int[] arr=new int[n];
             for(int i = 0; i < n; i++)
             {
-                int t = ToInt32(ReadLine());
+                int t = int.Parse(ReadLine());
                 if (1 <= t && t <= 60)
                     arr[i] = t;
                 else
